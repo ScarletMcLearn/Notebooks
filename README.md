@@ -1,2 +1,2 @@
 # notebooks
-These are notebooks that help me to learn different programming languages.
+Notebooks that help me to learn different programming languages will be put here.
