@@ -1,2 +1,2 @@
 # notebooks
-Notebooks that help me to learn different programming languages will be put here.
+Notebooks that help me to learn programming languages such as Java and Python will be put here.
